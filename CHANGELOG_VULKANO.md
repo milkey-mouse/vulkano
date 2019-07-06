@@ -1,4 +1,6 @@
-# Unreleased
+# Unreleased (breaking)
+
+- Update to winit 0.20.0-alpha3
 
 # Version 0.14.0 (2019-08-17)
 
